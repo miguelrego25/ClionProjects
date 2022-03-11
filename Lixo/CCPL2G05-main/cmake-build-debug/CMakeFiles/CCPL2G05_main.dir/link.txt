@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CCPL2G05_main.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CCPL2G05_main.dir/objects.a @CMakeFiles\CCPL2G05_main.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\CCPL2G05_main.dir/objects.a -Wl,--no-whole-archive  -o CCPL2G05_main.exe -Wl,--out-implib,libCCPL2G05_main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CCPL2G05_main.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Algoritmos_e_Complexidade.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Algoritmos_e_Complexidade.dir/objects.a @CMakeFiles\Algoritmos_e_Complexidade.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Algoritmos_e_Complexidade.dir/objects.a -Wl,--no-whole-archive  -o Algoritmos_e_Complexidade.exe -Wl,--out-implib,libAlgoritmos_e_Complexidade.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Algoritmos_e_Complexidade.dir\linklibs.rsp

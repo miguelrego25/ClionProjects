@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\triangulos.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\triangulos.dir/objects.a @CMakeFiles\triangulos.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\triangulos.dir/objects.a -Wl,--no-whole-archive  -o triangulos.exe -Wl,--out-implib,libtriangulos.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\triangulos.dir\linklibs.rsp

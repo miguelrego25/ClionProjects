@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/migue/CLionProjects/Pi/Ficha6/Queue.c
+stdio.h
+-
+stdlib.h
+-
+Queue.h
+C:/Users/migue/CLionProjects/Pi/Ficha6/Queue.h
+
+C:/Users/migue/CLionProjects/Pi/Ficha6/Queue.h
+
+C:/Users/migue/CLionProjects/Pi/Ficha6/Stack.c
+stdio.h
+-
+stdlib.h
+-
+Stack.h
+C:/Users/migue/CLionProjects/Pi/Ficha6/Stack.h
+
+C:/Users/migue/CLionProjects/Pi/Ficha6/Stack.h
+
+C:/Users/migue/CLionProjects/Pi/Ficha6/main.c
+stdio.h
+-
+Stack.h
+C:/Users/migue/CLionProjects/Pi/Ficha6/Stack.h
+Queue.h
+C:/Users/migue/CLionProjects/Pi/Ficha6/Queue.h
+

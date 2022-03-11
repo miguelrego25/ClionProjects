@@ -1,0 +1,3 @@
+C:/Users/migue/CLionProjects/Pi/Ficha1/triangulos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/migue/CLionProjects/Pi/Ficha1/triangulos/cmake-build-debug/CMakeFiles/triangulos.dir
+C:/Users/migue/CLionProjects/Pi/Ficha1/triangulos/cmake-build-debug/CMakeFiles/edit_cache.dir

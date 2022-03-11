@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CCPL2G05_main"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CCPL2G05_main">
+				<Option output="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/CCPL2G05_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 CCPL2G05_main"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CCPL2G05_main/fast">
+				<Option output="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/CCPL2G05_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 CCPL2G05_main/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/Main.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/aritimetica.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/aritimetica.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/array.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/array.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/convertetipo.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/convertetipo.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/logica.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/logica.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/logicabin.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/logicabin.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/manipstack.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/manipstack.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/parser.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/parser.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/readline.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/readline.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/stack.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/stack.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/strtok.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/variaveis.c">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/variaveis.h">
+			<Option target="CCPL2G05_main"/>
+		</Unit>
+		<Unit filename="C:/Users/migue/CLionProjects/Lixo/CCPL2G05-main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

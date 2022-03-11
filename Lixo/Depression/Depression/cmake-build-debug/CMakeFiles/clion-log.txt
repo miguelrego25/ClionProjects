@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\migue\CLionProjects\Lixo\Depression\Depression Select CMakeLists.txt

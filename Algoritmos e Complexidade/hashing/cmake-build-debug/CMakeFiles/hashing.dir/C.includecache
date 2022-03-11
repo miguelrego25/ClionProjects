@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/hashing/hashing.h
+
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/hashing/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+hashing.h
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/hashing/hashing.h
+
