@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/migue/CLionProjects/Pi/100 questoes
+# Install script for directory: C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/migue/CLionProjects/Pi/100 questoes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

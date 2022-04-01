@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/migue/CLionProjects/Pi/100 questoes/main.c" "C:/Users/migue/CLionProjects/Pi/100 questoes/cmake-build-debug/CMakeFiles/100_questoes.dir/main.c.obj"
+  "C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/main.c" "C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/cmake-build-debug/CMakeFiles/100_questoes.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

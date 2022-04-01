@@ -1,3 +1,3 @@
-C:/Users/migue/CLionProjects/Pi/100 questoes/cmake-build-debug/CMakeFiles/100_questoes.dir
-C:/Users/migue/CLionProjects/Pi/100 questoes/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/migue/CLionProjects/Pi/100 questoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/cmake-build-debug/CMakeFiles/100_questoes.dir
+C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/CLionProjects/PI 2020-2021/100 questoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

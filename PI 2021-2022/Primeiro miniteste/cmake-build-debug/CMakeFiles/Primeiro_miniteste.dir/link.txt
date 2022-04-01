@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Primeiro_miniteste.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Primeiro_miniteste.dir/objects.a @CMakeFiles\Primeiro_miniteste.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Primeiro_miniteste.dir/objects.a -Wl,--no-whole-archive  -o Primeiro_miniteste.exe -Wl,--out-implib,libPrimeiro_miniteste.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Primeiro_miniteste.dir\linklibs.rsp

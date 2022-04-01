@@ -11,7 +11,7 @@ typedef struct lista{
 Lista newLista(int x, Lista l){
     Lista r;
     r=malloc (sizeof(struct lista));
-    r->valor = x;
+    r->valor = x
     r->prox = l;
     return r;
 }
