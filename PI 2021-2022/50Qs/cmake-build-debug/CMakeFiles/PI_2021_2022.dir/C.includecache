@@ -9,4 +9,10 @@
 C:/Users/migue/CLionProjects/PI 2021-2022/50Qs/50Qs.c
 stdio.h
 -
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
 

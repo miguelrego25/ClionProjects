@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <ctype.h>
 int primeira(){
     int maior = 0;
     while(1){
@@ -86,17 +89,106 @@ char setima (char s1[], char s2[]){
     return s1;
 }
 //oitava
-char strcpyx (char *dest, char source[]){
+char strcpyx (char s1[], const char s2[]) {
     int i;
-    for (i = 0; dest[i] != '\0' ; i++) {
-        source[i]=dest[i];
+    for (i = 0; s2[i] != '\0' ; i++) {
+        s1[i]=s2[i];
     }
-    return source
+    s1[i] = '\0';
+    return s1;
 }
 
+//nona
+int mystrcmp(char s1[], char s2[]) {
+    int flag,i=0;
+    while(s1[i] != '\0' && s2[i]!='\0' && s1[i]==s2[i]) {
+        i++;
+    }
+    flag = s1[i]-s2[i];
+    return flag;
+}
+
+//decima
+
+//da segmentation fault
+char mystrstr (char s1[], char s2[]) {
+    int i, j;
+    char p = NULL;
+    for (i = 0, j = 0; s1[i] != '\0' && s2[j] != '\0'; i++) {
+        if (s1[i] != s2[j]) j = 0;
+        if (s1[i] == s2[j])
+            p = i;
+        for (j = 0; s1[i] == s2[j]; i++, j++);
+    }
+    return p;
+}
+//decima-primeira
+
+void mystrrev (char s[]) {
+    int len = 0,i;
+    char temp ;
+    for (len = 0; s[len] != '\0'; len++);
+    for (i = 0; i < len;i++ ) {
+        temp = s[i];
+        s[i]=s[len-1];
+        s[len-1] = temp;
+        len--;
+    }
+}
+//decima-segunda
+
+void strnoV (char s[]){
+    int i,j;
+    int length = 0;
+    for (length = 0; s[length] != '\0'; length++);
+    for (i = 0; i!=length;i++) {
+        if (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u' || s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U'){
+            j=i;
+            while(j!=length) {
+                s[j] = s[j + 1];
+                j++;
+            }
+            i--;
+        }
+    }
+}
+
+//decima-terceira
+void truncW (char t[], int n) {
+    int len, j=0;
+    for (len = 0; t[len] != '\0'; len++);
+
+    for (int i = 0; t[i]!='\0' ; i++,j++) {
+        if(j==n){
+            if(t[i] != ' '){
+                for (j=i; t[j] != ' ' ; j++) {
+                    t[j] = t[j+1];
+                }
+            }
+            j=i;
+        }
+
+    }
+}
+//decima quarta
+
+char charMaisfreq (char s[]) {
+    int flag = 0, j=0, i=0;
+    char maisfreq;
+    int masfreq;
 
 
+    for(i = 0; s[i] != '\0'; i++){
+        int f = 0;
+        for (j = 0; s[j] != '\0'; j++) if(s[i] == s[j]) f++;
+        if (f>masfreq){
+            maisfreq = s[i];
+            masfreq=f;
+        }
+    }
+    return maisfreq;
 
+}
 
 int main() {
     //primeira();
@@ -106,11 +198,12 @@ int main() {
     //quinta();
     //sexta();
     //setima();
-    char s1[20] = "Hello world";
-    char s2[20] = "putas ss";
-    strcpyx(s1, s2);
-    printf("%s",s2);
-    return 0;
+    char s1[20] = "ola muundo cruel";
+    char s2[6] = "mundo";
+    //mystrrev(s1);
+    charMaisfreq(s1);
+    printf("%s",s1);
+    return charMaisfreq(s1);
 
 }
 
