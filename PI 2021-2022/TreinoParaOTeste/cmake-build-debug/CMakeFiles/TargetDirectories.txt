@@ -1,0 +1,3 @@
+C:/Users/migue/ClionProjects/PI 2021-2022/TreinoParaOTeste/cmake-build-debug/CMakeFiles/TreinoParaOTeste.dir
+C:/Users/migue/ClionProjects/PI 2021-2022/TreinoParaOTeste/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/ClionProjects/PI 2021-2022/TreinoParaOTeste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
