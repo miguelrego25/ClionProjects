@@ -1,0 +1,3 @@
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/cmake-build-debug/CMakeFiles/Algoritmos_e_Complexidade.dir
+C:/Users/migue/CLionProjects/Algoritmos e Complexidade/cmake-build-debug/CMakeFiles/rebuild_cache.dir

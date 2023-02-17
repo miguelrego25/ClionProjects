@@ -1,0 +1,36 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e Representação/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_8ae37/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_8ae37.dir\build.make CMakeFiles/cmTC_8ae37.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e RepresentaþÒo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8ae37.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_8ae37.dir\testCCompiler.c.obj   -c "C:\Users\migue\CLionProjects\Algoritmos e Complexidade\Grafos e Representa├º├úo\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\migue\CLionProjects\Algoritmos e Complexidade\Grafos e Representa+║+·o\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_8ae37.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_8ae37.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_8ae37.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e RepresentaþÒo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_8ae37/fast' failed
+mingw32-make.exe: *** [cmTC_8ae37/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e Representação/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_d1548/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d1548.dir\build.make CMakeFiles/cmTC_d1548.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e RepresentaþÒo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d1548.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_d1548.dir\testCCompiler.c.obj   -c "C:\Users\migue\CLionProjects\Algoritmos e Complexidade\Grafos e Representa├º├úo\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\Users\migue\CLionProjects\Algoritmos e Complexidade\Grafos e Representa+║+·o\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_d1548.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_d1548.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_d1548.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/migue/CLionProjects/Algoritmos e Complexidade/Grafos e RepresentaþÒo/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_d1548/fast' failed
+mingw32-make.exe: *** [cmTC_d1548/fast] Error 2
+
+
+
