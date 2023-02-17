@@ -1,3 +1,0 @@
-C:/Users/migue/CLionProjects/Sistemas Operativos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/migue/CLionProjects/Sistemas Operativos/cmake-build-debug/CMakeFiles/Sistemas_Operativos.dir
-C:/Users/migue/CLionProjects/Sistemas Operativos/cmake-build-debug/CMakeFiles/edit_cache.dir
