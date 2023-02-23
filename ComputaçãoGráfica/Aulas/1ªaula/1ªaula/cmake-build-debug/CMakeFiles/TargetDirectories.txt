@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/ComputaçãoGráfica/Aulas/1ªaula/1ªaula/cmake-build-debug/CMakeFiles/class2.dir
+/home/miguel/ClionProjects/ComputaçãoGráfica/Aulas/1ªaula/1ªaula/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/ComputaçãoGráfica/Aulas/1ªaula/1ªaula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
