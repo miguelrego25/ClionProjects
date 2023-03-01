@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guiao1/MYCAT/cmake-build-debug/CMakeFiles/MYCAT.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guiao1/MYCAT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guiao1/MYCAT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
