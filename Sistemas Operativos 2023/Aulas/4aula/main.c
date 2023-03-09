@@ -18,12 +18,6 @@ int main (int argc, char *argv[]) {
             printf("Pai = %d , Filho = %d \n", getppid(), getpid());
             exit(i);        // Para sair do correto
         }
-
-        int status;                                     // Para termos a espera entre cada um elemento do ciclo
-        pid_t pid = wait(&status);
-        if(WIFEXITED(status)) {
-            printf("_exit: %d \n", WEXITSTATUS(status));
-        }
     }
     return 1;
 }
