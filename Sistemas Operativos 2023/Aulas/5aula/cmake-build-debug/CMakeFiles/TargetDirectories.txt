@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Aulas/5aula/cmake-build-debug/CMakeFiles/5aula.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Aulas/5aula/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Aulas/5aula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
