@@ -7,6 +7,8 @@ int main() {
     char commando3[] = "ps";
     int ret;
 
+    //falta acabar
+
     printf("a executar mysystem para %s \n", commando1);
     ret = mysystem(commando1);
     printf("ret: %d\n",ret);
