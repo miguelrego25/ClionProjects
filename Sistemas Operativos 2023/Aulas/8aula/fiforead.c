@@ -4,6 +4,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 
+//s
 //escreve linhas para o input
 int main(int argc, char* argv[]) {
 
