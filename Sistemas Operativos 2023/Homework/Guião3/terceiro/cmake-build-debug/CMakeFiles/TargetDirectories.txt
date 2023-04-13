@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guião3/terceiro/cmake-build-debug/CMakeFiles/terceiro.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guião3/terceiro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/Sistemas Operativos 2023/Homework/Guião3/terceiro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

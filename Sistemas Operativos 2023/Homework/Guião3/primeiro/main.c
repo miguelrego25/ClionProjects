@@ -1,6 +1,7 @@
 #include <stdio.h>
-
+#include <unistd.h>
 int main() {
-    printf("Hello, World!\n");
+    execlp("ls","ls", "-l",NULL);
+    printf("foi usado");
     return 0;
 }
