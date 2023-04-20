@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/TrabalhoSO/cmake-build-debug/CMakeFiles/TrabalhoSO.dir
+/home/miguel/ClionProjects/TrabalhoSO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/TrabalhoSO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
