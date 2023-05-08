@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230309-2125-Continuous"
+	Name="ika"
+	Generator="ctest-3.24.2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.3.0"
+	OSName="Linux"
+	Hostname="ika"
+	OSRelease="5.19.0-35-generic"
+	OSVersion="#36~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Feb 17 15:17:25 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="104"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15344"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1908.13"
+	>
+	<Build>
+		<StartDateTime>Mar 09 21:25 WET</StartDateTime>
+		<StartBuildTime>1678397157</StartBuildTime>
+		<BuildCommand>/home/ika/CG/clion-2022.3.2/bin/cmake/linux/x64/bin/cmake --build . --config "Release"</BuildCommand>
+		<Warning>
+			<BuildLogLine>1</BuildLogLine>
+			<Text>gmake[4]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.</Text>
+			<PreContext></PreContext>
+			<PostContext>[ 50%] [NON-XML-CHAR-0x1B][32mBuilding CXX object CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o[NON-XML-CHAR-0x1B][0m
+[100%] [NON-XML-CHAR-0x1B][32m[NON-XML-CHAR-0x1B][1mLinking CXX static library libpugixml.a[NON-XML-CHAR-0x1B][0m
+[100%] Built target pugixml-static
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Mar 09 21:25 WET</EndDateTime>
+		<EndBuildTime>1678397158</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

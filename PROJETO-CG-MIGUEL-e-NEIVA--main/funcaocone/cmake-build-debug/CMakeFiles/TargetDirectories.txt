@@ -1,0 +1,3 @@
+/home/miguel/ClionProjects/ProjetoCg/funcaocone/cmake-build-debug/CMakeFiles/class3.dir
+/home/miguel/ClionProjects/ProjetoCg/funcaocone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/ClionProjects/ProjetoCg/funcaocone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+^C:\USERS\NEVEB\SOURCE\REPOS\MIGUEL-NEIVA\CG-22-23\ENGINE\CODE\BUILD\CMAKEFILES\A6409727FA9153C0D9DA7D42807F24EA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/neveb/source/repos/Miguel-Neiva/CG-22-23/Engine/code -BC:/Users/neveb/source/repos/Miguel-Neiva/CG-22-23/Engine/code/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/neveb/source/repos/Miguel-Neiva/CG-22-23/Engine/code/build/class1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
